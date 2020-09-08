@@ -1,0 +1,28 @@
+.container {
+    width: 600px;
+    height: 500px;
+  }
+  
+  .block {
+    display: flex;
+    height: 80px;
+    width: 80px;
+    background-color: lightgrey;
+    border: 3px solid black;
+    float: left;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .numbers-yellow {
+    text-align: center;
+    font-size: 32px;
+    background-color: yellow;
+  }
+  
+  .numbers-green {
+    text-align: center;
+    font-size: 32px;
+    background-color: green;
+  }
+  
